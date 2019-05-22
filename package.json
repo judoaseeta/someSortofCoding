@@ -7,5 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Roy Choi <judoaseeta@gmail.com> (https://github.com/judoaseeta)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^5.5.0",
+    "d3-shape": "^1.2.0",
+    "moize": "^5.4.0",
+    "node-sass": "^4.9.0",
+    "rxjs": "^6.2.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.3"
+  }
 }

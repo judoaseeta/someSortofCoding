@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    padding: 0;
+    margin: 0;
+
+}
+#app {
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    padding: 20px;
+}
+#app svg {
+    background-color: transparent;
+    cursor: pointer;
+}
